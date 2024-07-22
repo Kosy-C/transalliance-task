@@ -1,0 +1,81 @@
+.hero-header{
+    display: flex;
+    align-items: center;
+    /* padding-bottom: 1rem; */
+    margin-bottom: -7.7rem;
+}
+.header-container {
+    margin: 8rem 12rem;
+    color: white;
+    line-height: 1rem;
+}
+
+.header-container span {
+    background: linear-gradient(90deg, rgba(211, 189, 0, 1), rgba(242, 116, 5, 1));
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    font-size: 13px;
+    line-height: 14px;
+    letter-spacing: 0.2em;
+    text-align: left;
+}
+.header1 {
+    font-family: "Montseratt";
+    font-size: 63px;
+    /* font-weight: lighter; */
+    line-height: 55px;
+    text-align: left;
+    margin-top: 0.1rem;
+    margin-bottom: 1rem;
+}
+.header-container p{
+    font-family:;
+}
+.header-container h6{
+    font-family: DM Sans;
+    font-size: 14px;
+    font-weight: lighter;
+    margin-top: 0rem;
+    opacity: 0.4;
+}
+.hero-img-1{
+    width: 3rem;
+    z-index: 1;
+}
+.hero-img-1 img{
+    width: 13rem;
+    margin-bottom: 8rem;
+}
+  .hero-img{
+    display: flex;
+    margin-top: 1rem;
+}
+.hero-img img{
+    width: 13rem;
+}
+.hero-img span img{
+    width: 23rem;
+}
+.hero-discover{
+    align-items: start;
+    margin-bottom: -5.5rem;
+}
+.hero-discover img{
+    width: 55rem;
+}
+.border-img{
+    color: black;
+    background-color: white;
+    margin: 0rem 7rem;
+    padding: 1rem 2rem;
+    font-size: 17px;
+    opacity: 0.7;
+    border-radius: 1rem;
+    width: 71rem;
+}
+.img-logos{
+    display: flex;
+}
+.img-logos img{
+    width: 12rem;
+}
